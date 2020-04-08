@@ -1,0 +1,28 @@
+.ui.container {
+  width: 100%;
+}
+
+.eight.wide.column.leftHero {
+  /* background-image: url("../public/images/favicon.ico");
+  background-size: cover; */
+  background-color: #e4e4e4;
+  padding: 20%;
+  border-bottom-right-radius: 50%; 
+}
+
+.eight.wide.column.rightHero {
+  position: relative;
+  margin-left: 25%;
+  top: -400px;
+}
+
+.heroText {
+  font-size: 60px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.subHeroText {
+  font-size: 20px;
+  letter-spacing: 1px;
+}

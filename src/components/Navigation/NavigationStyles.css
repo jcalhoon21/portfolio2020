@@ -1,0 +1,22 @@
+.navImage {
+  padding: 20px;
+}
+
+.headerName {
+  font-weight: bolder;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.headerTitle {
+  font-weight: lighter;
+  font-size: large;
+  letter-spacing: 3px;
+  padding-bottom: 15%;
+}
+
+.ui.attached.stackable.menu {
+  position: relative;
+  top: -100px;
+
+}
