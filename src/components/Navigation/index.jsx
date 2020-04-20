@@ -17,10 +17,11 @@ const Navigation = () => {
           </a>
         </div>
       </div>
+
     </div>
   )
 }
-
+      
 export default Navigation;
 
 {/* <div className="ui bottom attached">
