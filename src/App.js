@@ -1,19 +1,17 @@
 import React from 'react';
 import './App.css';
 import Hero from './components/Hero';
-import About from './components/About';
-import Navigation from './components/Navigation';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
+import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="App">
+    <div className="main ui container">
       <Hero />
-      <Navigation />
-      <About />
       <Projects />
       <Contact />
+      <Footer />
     </div>
   );
 }

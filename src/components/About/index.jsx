@@ -3,10 +3,8 @@ import './AboutStyles.css';
 
 const About = () => {
   return ( 
-    <div>
-      I am the About.
-    </div>
-  )
+    <div></div>
+  );
 }
 
 export default About;
